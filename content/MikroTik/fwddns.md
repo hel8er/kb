@@ -3,6 +3,7 @@ title: "DNS FWD на MikroTik"
 tags:
   - dns
   - mikrotik
+draft: true
 ---
 
 ## Введение
